@@ -25,7 +25,7 @@ Title:Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting A
    - Update $t_i = \frac{1 + \sqrt{1 + 4t_{i-1}^2}}{2}$
 
 
-### 
+### ADNI：https://adni.loni.usc.edu/     
 ## Table: Demographic Information of Subjects at Different Time Points
 
 | Time Point | Attribute      | Values         |
