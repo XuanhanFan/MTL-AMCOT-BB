@@ -3,6 +3,19 @@
 ## Title
 "Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression" has been accepted as a regular paper at IEEE International Conference on Bioinformatics and Biomedicine 2024 (IEEE BIBM 2024).
 
+![Target Correlation Matrix 1](/Target_correlation_5target1.png)
+*Figure 1: Target Correlation Matrix for Target 1*
+
+![Target Correlation Matrix 2](/Target_correlation_5target1.png)  <!-- Assuming this is a typo and should be a different file -->
+*Figure 2: Target Correlation Matrix for Target 2*
+
+### Abstract Flowchart
+
+Below is the flowchart describing the abstract process used in our study:
+
+![Flowchart Abstract](/Fig1_flowchart_abstract.png)
+*Figure 3: Flowchart Abstract*
+
 ## Algorithm: APM-based Algorithm with Barzilai-Borwein Step Size
 
 ### Input
