@@ -23,3 +23,34 @@ Title:Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting A
    - Determine $\eta_k$ using the Barzilai-Borwein Step Size
    - Compute $W_i = \pi(S_i - \frac{1}{\eta_k} f'(S_i))$
    - Update $t_i = \frac{1 + \sqrt{1 + 4t_{i-1}^2}}{2}$
+
+
+### 
+## Table: Demographic Information of Subjects at Different Time Points
+
+| Time Point | Attribute      | Values         |
+|------------|----------------|----------------|
+| **Baseline (M00)** | Sample Size     | 1532           |
+|                    | (AD, MCI, CN)   | (315, 817, 400)|
+|                    | (Female, Male)  | (688, 844)     |
+|                    | APOE4 (0, 1, 2) | (795, 567, 160)|
+| **M06**            | Sample Size     | 1317           |
+|                    | (AD, MCI, CN)   | (265, 669, 383)|
+|                    | (Female, Male)  | (570, 747)     |
+|                    | APOE4 (0, 1, 2) | (675, 493, 149)|
+| **M12**            | Sample Size     | 1375           |
+|                    | (AD, MCI, CN)   | (366, 768, 241)|
+|                    | (Female, Male)  | (606, 769)     |
+|                    | APOE4 (0, 1, 2) | (721, 508, 146)|
+| **M24**            | Sample Size     | 1099           |
+|                    | (AD, MCI, CN)   | (132, 653, 314)|
+|                    | (Female, Male)  | (487, 612)     |
+|                    | APOE4 (0, 1, 2) | (597, 399, 103)|
+| **M36**            | Sample Size     | 432            |
+|                    | (AD, MCI, CN)   | (0, 277, 155)  |
+|                    | (Female, Male)  | (169, 263)     |
+|                    | APOE4 (0, 1, 2) | (259, 142, 31) |
+| **M48**            | Sample Size     | 289            |
+|                    | (AD, MCI, CN)   | (0, 172, 117)  |
+|                    | (Female, Male)  | (127, 162)     |
+|                    | APOE4 (0, 1, 2) | (175, 92, 22)  |
