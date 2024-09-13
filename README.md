@@ -13,7 +13,7 @@ Below is the flowchart describing the process used in our study:
 ![Flowchart Abstract](/Fig1_flowchart_abstract.png)
 *Figure 3: Flowchart Abstract*
 
-## Algorithm: APM-based Algorithm with Barzilai-Borwein Step Size
+## Algorithm 1: APM-based Algorithm with Barzilai-Borwein Step Size
 
 ### Input:
 - $X, Y, \lambda_1, \lambda_2, \lambda_3$
